@@ -11,6 +11,6 @@ namespace socketClientServer.Models
         public string Mark { get; set; }
         public int Year { get; set; }
         public float EngineVolume { get; set; }
-        public int NumberOfDoors { get; set; }
+        public int? NumberOfDoors { get; set; }
     }
 }
