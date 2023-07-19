@@ -1,0 +1,15 @@
+C:\Users\777\Desktop\socketClientServer\socketClientServer\bin\Debug\net6.0\socketClientServer.exe
+C:\Users\777\Desktop\socketClientServer\socketClientServer\bin\Debug\net6.0\socketClientServer.deps.json
+C:\Users\777\Desktop\socketClientServer\socketClientServer\bin\Debug\net6.0\socketClientServer.runtimeconfig.json
+C:\Users\777\Desktop\socketClientServer\socketClientServer\bin\Debug\net6.0\socketClientServer.dll
+C:\Users\777\Desktop\socketClientServer\socketClientServer\bin\Debug\net6.0\socketClientServer.pdb
+C:\Users\777\Desktop\socketClientServer\socketClientServer\obj\Debug\net6.0\socketClientServer.csproj.AssemblyReference.cache
+C:\Users\777\Desktop\socketClientServer\socketClientServer\obj\Debug\net6.0\socketClientServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\777\Desktop\socketClientServer\socketClientServer\obj\Debug\net6.0\socketClientServer.AssemblyInfoInputs.cache
+C:\Users\777\Desktop\socketClientServer\socketClientServer\obj\Debug\net6.0\socketClientServer.AssemblyInfo.cs
+C:\Users\777\Desktop\socketClientServer\socketClientServer\obj\Debug\net6.0\socketClientServer.csproj.CoreCompileInputs.cache
+C:\Users\777\Desktop\socketClientServer\socketClientServer\obj\Debug\net6.0\socketClientServer.dll
+C:\Users\777\Desktop\socketClientServer\socketClientServer\obj\Debug\net6.0\refint\socketClientServer.dll
+C:\Users\777\Desktop\socketClientServer\socketClientServer\obj\Debug\net6.0\socketClientServer.pdb
+C:\Users\777\Desktop\socketClientServer\socketClientServer\obj\Debug\net6.0\socketClientServer.genruntimeconfig.cache
+C:\Users\777\Desktop\socketClientServer\socketClientServer\obj\Debug\net6.0\ref\socketClientServer.dll
